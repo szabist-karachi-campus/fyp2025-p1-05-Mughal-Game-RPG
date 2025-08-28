@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8994584f-4631-4960-8aa5-766e15b92c84" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65927d60dd5f4df5850222879a8ed9a4176800/23/849ebb6c/IStyle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65927d60dd5f4df5850222879a8ed9a4176800/42/5fd0731e/StyleLength.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f7237cf7abef49bfbb552d7eb076e422174200/73/74df8d8f/Mathf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f7237cf7abef49bfbb552d7eb076e422174200/f7/69004061/MonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Quests/BlackMarketBargainsQuest/BlackMarketBargainsQuestStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Quests/CollectRupiyaQuest/CollectRupiyaQuestStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Quests/EchoesOfBetrayal/EchoesOfBetrayalQuestStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Quests/EliminateEnemiesQuest/EliminateEnemiesQuestStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Quests/WhispersOnTheShip/WhispersOnTheShipQuestStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Quests/WhispersOnTheShip/WhispersOnTheShipQuestStepObjective.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio System/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat System/CombatController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat System/HitStop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat System/StunData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/NPCSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/States/EnemyDeadState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/States/EnemyGettingHitState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/DayCycleSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameStateManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/HiddenEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/PlayerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/QuestEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NPC/NPCManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NPC/States/NPCIdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quest System/QuestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quest System/QuestIcon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quest System/QuestPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quest System/QuestStep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quest System/QuestStepState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stealth System/StealthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stealth System/StealthData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DetectionIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.6/Unity.Mathematics/random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@14.0.10/Runtime/Volume/VolumeComponent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@14.0.10/Runtime/Volume/VolumeParameter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@14.0.10/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@14.0.10/Runtime/Lighting/VolumetricLighting/VolumetricClouds.Migration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@14.0.10/Runtime/Lighting/VolumetricLighting/VolumetricClouds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@14.0.10/Runtime/Material/Lit/Lit.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.high-definition@14.0.10/Runtime/RenderPipeline/HDRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Core/Utilities/ComponentHolderProtocol.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rCGGyE9U3b8kflh6Yxh2RIYHhX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Build/MGR - New\Assassins Creed Desi V2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="E:\Unity Projects\Build\MGR - New" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="E:\Unity\Unity Editors\2022.3.19f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;E:\Unity Projects\Mughal Game RPG&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\Unity Projects\Mughal Game RPG" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="E:\Unity\Unity Editors\2022.3.19f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;E:\Unity Projects\Mughal Game RPG&quot; -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\Unity Projects\Mughal Game RPG" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8994584f-4631-4960-8aa5-766e15b92c84" name="Changes" comment="" />
+      <created>1736055553179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736055553179</updated>
+      <workItem from="1736055556162" duration="9696000" />
+      <workItem from="1736103539096" duration="2615000" />
+      <workItem from="1736189992732" duration="1422000" />
+      <workItem from="1736342004102" duration="15980000" />
+      <workItem from="1736534631071" duration="4732000" />
+      <workItem from="1736575576100" duration="8594000" />
+      <workItem from="1736607748580" duration="12445000" />
+      <workItem from="1736662671897" duration="6990000" />
+      <workItem from="1736681428112" duration="4498000" />
+      <workItem from="1736966768271" duration="670000" />
+      <workItem from="1737050023904" duration="1939000" />
+      <workItem from="1737054987232" duration="433000" />
+      <workItem from="1737180026456" duration="4295000" />
+      <workItem from="1737186224289" duration="5900000" />
+      <workItem from="1737210441922" duration="2644000" />
+      <workItem from="1737310343273" duration="3167000" />
+      <workItem from="1737393127185" duration="4299000" />
+      <workItem from="1737563364583" duration="3441000" />
+      <workItem from="1737650078106" duration="6965000" />
+      <workItem from="1737807410428" duration="11982000" />
+      <workItem from="1737873548807" duration="1269000" />
+      <workItem from="1738008760498" duration="6583000" />
+      <workItem from="1738424712730" duration="8375000" />
+      <workItem from="1738950608107" duration="1494000" />
+      <workItem from="1739045541895" duration="665000" />
+      <workItem from="1739052605878" duration="1985000" />
+      <workItem from="1739202782146" duration="6474000" />
+      <workItem from="1739290094071" duration="5345000" />
+      <workItem from="1739559422129" duration="2343000" />
+      <workItem from="1739811181284" duration="1764000" />
+      <workItem from="1739986653323" duration="2250000" />
+      <workItem from="1740247740761" duration="5438000" />
+      <workItem from="1740333309743" duration="5200000" />
+      <workItem from="1740513308646" duration="599000" />
+      <workItem from="1740591940760" duration="3629000" />
+      <workItem from="1740680322817" duration="1931000" />
+      <workItem from="1740765523735" duration="5270000" />
+      <workItem from="1740847702455" duration="11496000" />
+      <workItem from="1740906584295" duration="205000" />
+      <workItem from="1740916517160" duration="16218000" />
+      <workItem from="1741013360456" duration="2349000" />
+      <workItem from="1741016838362" duration="10730000" />
+      <workItem from="1741098409674" duration="9641000" />
+      <workItem from="1741281117194" duration="3566000" />
+      <workItem from="1741367883415" duration="1950000" />
+      <workItem from="1741452953370" duration="9426000" />
+      <workItem from="1741531887436" duration="2149000" />
+      <workItem from="1741625366516" duration="3448000" />
+      <workItem from="1741801171439" duration="748000" />
+      <workItem from="1741884714246" duration="6546000" />
+      <workItem from="1741966053139" duration="56000" />
+      <workItem from="1741966129648" duration="12296000" />
+      <workItem from="1742035968707" duration="1268000" />
+      <workItem from="1742054822427" duration="8334000" />
+      <workItem from="1742106610912" duration="4613000" />
+      <workItem from="1742138455580" duration="5426000" />
+      <workItem from="1742226954399" duration="10329000" />
+      <workItem from="1742311484671" duration="13203000" />
+      <workItem from="1742395944276" duration="7778000" />
+      <workItem from="1742486889634" duration="5543000" />
+      <workItem from="1742672462173" duration="1860000" />
+      <workItem from="1742734984788" duration="11606000" />
+      <workItem from="1742829410355" duration="1737000" />
+      <workItem from="1743001656102" duration="522000" />
+      <workItem from="1743002286086" duration="2932000" />
+      <workItem from="1743011422807" duration="4924000" />
+      <workItem from="1743171491872" duration="8138000" />
+      <workItem from="1743409480279" duration="4328000" />
+      <workItem from="1743486238569" duration="11038000" />
+      <workItem from="1743696749058" duration="6623000" />
+      <workItem from="1743880734743" duration="223000" />
+      <workItem from="1743925463396" duration="313000" />
+      <workItem from="1743965357690" duration="1826000" />
+      <workItem from="1744041455132" duration="4850000" />
+      <workItem from="1744489464522" duration="3866000" />
+      <workItem from="1744526348684" duration="4638000" />
+      <workItem from="1744543257142" duration="3844000" />
+      <workItem from="1744644804762" duration="5574000" />
+      <workItem from="1744733072578" duration="10940000" />
+      <workItem from="1744826971798" duration="7343000" />
+      <workItem from="1744902563284" duration="8827000" />
+      <workItem from="1744918036413" duration="947000" />
+      <workItem from="1745130763494" duration="6109000" />
+      <workItem from="1745147366214" duration="4556000" />
+      <workItem from="1745252373876" duration="3339000" />
+      <workItem from="1745507809316" duration="2368000" />
+      <workItem from="1745676988167" duration="2160000" />
+      <workItem from="1745731370084" duration="6728000" />
+      <workItem from="1745770404013" duration="3932000" />
+      <workItem from="1746464605677" duration="3411000" />
+      <workItem from="1746551799499" duration="3634000" />
+      <workItem from="1746732184111" duration="903000" />
+      <workItem from="1746899551095" duration="1203000" />
+      <workItem from="1746983150273" duration="2481000" />
+      <workItem from="1746985887002" duration="2193000" />
+      <workItem from="1747067495572" duration="7788000" />
+      <workItem from="1747154232672" duration="363000" />
+      <workItem from="1747154636300" duration="1714000" />
+      <workItem from="1747502103604" duration="80000" />
+      <workItem from="1747502211958" duration="3937000" />
+      <workItem from="1747545412490" duration="57000" />
+      <workItem from="1747545494921" duration="7884000" />
+      <workItem from="1747920553754" duration="2919000" />
+      <workItem from="1748096687834" duration="1112000" />
+      <workItem from="1748098354455" duration="7420000" />
+      <workItem from="1748173353246" duration="889000" />
+      <workItem from="1748177944977" duration="13031000" />
+      <workItem from="1748278919951" duration="60000" />
+      <workItem from="1748279003987" duration="3211000" />
+      <workItem from="1748542126331" duration="30000" />
+      <workItem from="1748542176640" duration="3103000" />
+      <workItem from="1748710562036" duration="4690000" />
+      <workItem from="1749296379597" duration="273000" />
+      <workItem from="1749662499458" duration="1607000" />
+      <workItem from="1750534169420" duration="155000" />
+      <workItem from="1750697151340" duration="35000" />
+      <workItem from="1750697207030" duration="1225000" />
+      <workItem from="1750874414861" duration="2826000" />
+      <workItem from="1751127715635" duration="3845000" />
+      <workItem from="1751314044972" duration="35000" />
+      <workItem from="1751314099461" duration="2878000" />
+      <workItem from="1751393619336" duration="7522000" />
+      <workItem from="1751468729135" duration="33000" />
+      <workItem from="1751468784810" duration="14797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

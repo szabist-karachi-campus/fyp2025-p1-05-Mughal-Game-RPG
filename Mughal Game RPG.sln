@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2e6e3db5-77e7-841c-c525-ca40b02b9544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{a0f36508-d09f-dff1-2767-98cb281f6736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.UIWidgets", "DevionGames.UIWidgets.csproj", "{1ea8835f-3c4a-30fc-df08-7d6229821162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.StatSystem", "DevionGames.StatSystem.csproj", "{eaefc847-8745-d0c6-a066-a4e2f01502fc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Utilities", "DevionGames.Utilities.csproj", "{2d60e628-c9ba-7648-2dd1-ee05d9129a10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Triggers", "DevionGames.Triggers.csproj", "{3ab9d17b-dc35-4a95-4848-655f9c7e5110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.Graphs", "DevionGames.Graphs.csproj", "{049c451e-2f2d-2f2f-4ef1-2b48521ddf01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.InventorySystem", "DevionGames.InventorySystem.csproj", "{f2d2d5e3-383d-1cd8-61fd-71060ebe7ce7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.csproj", "{5d182653-c77a-1910-ad07-51260089dc30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.editor", "sc.terrain.painter.editor.csproj", "{67b20b2c-79d4-1e42-49ad-ea9ec9c9fa08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevionGames.ThirdPersonController", "DevionGames.ThirdPersonController.csproj", "{8cc1c9ed-755d-5c58-cead-fcfdf74d807e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2e6e3db5-77e7-841c-c525-ca40b02b9544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2e6e3db5-77e7-841c-c525-ca40b02b9544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a0f36508-d09f-dff1-2767-98cb281f6736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a0f36508-d09f-dff1-2767-98cb281f6736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ea8835f-3c4a-30fc-df08-7d6229821162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ea8835f-3c4a-30fc-df08-7d6229821162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eaefc847-8745-d0c6-a066-a4e2f01502fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eaefc847-8745-d0c6-a066-a4e2f01502fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2d60e628-c9ba-7648-2dd1-ee05d9129a10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2d60e628-c9ba-7648-2dd1-ee05d9129a10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ab9d17b-dc35-4a95-4848-655f9c7e5110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ab9d17b-dc35-4a95-4848-655f9c7e5110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049c451e-2f2d-2f2f-4ef1-2b48521ddf01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049c451e-2f2d-2f2f-4ef1-2b48521ddf01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f2d2d5e3-383d-1cd8-61fd-71060ebe7ce7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f2d2d5e3-383d-1cd8-61fd-71060ebe7ce7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5d182653-c77a-1910-ad07-51260089dc30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5d182653-c77a-1910-ad07-51260089dc30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67b20b2c-79d4-1e42-49ad-ea9ec9c9fa08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67b20b2c-79d4-1e42-49ad-ea9ec9c9fa08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8cc1c9ed-755d-5c58-cead-fcfdf74d807e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8cc1c9ed-755d-5c58-cead-fcfdf74d807e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
